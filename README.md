@@ -1,7 +1,7 @@
 # <p align="center">Cherika Kaushal</p>
 
 <p align="center">
-CS Undergrad @Punjabi Univ Patiala • Research Intern @IITrpr • Systems Builder
+Building systems. Breaking assumptions. Studying what remains.
 </p>
 
 <p align="center">
@@ -25,17 +25,6 @@ Exploring how intelligent systems behave when reality refuses to cooperate.
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherikakaushal&layout=compact&theme=transparent" />
 </p>
 
-## Current Research
-
-🔬 When Systems Break
-Studying machine learning failure under noise, missing data,
-confidence collapse and refusal-based reliability.
-
-📊 Women's Health Research Platform
-Privacy-preserving wearable analytics for longitudinal health studies.
-
-🧠
-Machine Learning Reliability • XAI • Digital Health • Systems Research
 
 ## About Me
 
