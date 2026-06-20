@@ -5,7 +5,7 @@ Building systems. Breaking assumptions. Studying what remains.
 </p>
 
 <p align="center">
-Exploring how intelligent systems behave when reality refuses to cooperate.
+ML Reliability • Digital Health • Full-Stack Engineering
 </p>
 
 ---
@@ -194,16 +194,13 @@ while curiosity:
 - When Systems Break (Research Report, 2026)
 - Exploring Failure Modes in Machine Learning Systems (In Progress)
 
-## Connect
+  
 
-Portfolio:
-https://cherikakaushal.github.io
-
-LinkedIn:
-www.linkedin.com/in/cherika-kaushal
-
-GitHub:
-https://github.com/cherikakaushal
+<p align="center">
+  <a href="https://cherikakaushal.github.io">Portfolio</a> •
+  <a href="https://linkedin.com/in/cherika-kaushal-4b9b8b30b">LinkedIn</a> •
+  <a href="https://github.com/cherikakaushal">GitHub</a>
+</p>
 
 ---
 
