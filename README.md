@@ -34,7 +34,7 @@ confidence collapse and refusal-based reliability.
 📊 Women's Health Research Platform
 Privacy-preserving wearable analytics for longitudinal health studies.
 
-🧠 Interests
+🧠
 Machine Learning Reliability • XAI • Digital Health • Systems Research
 
 ## About Me
