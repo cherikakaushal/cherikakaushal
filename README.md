@@ -25,6 +25,18 @@ Exploring how intelligent systems behave when reality refuses to cooperate.
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherikakaushal&layout=compact&theme=transparent" />
 </p>
 
+## Current Research
+
+🔬 When Systems Break
+Studying machine learning failure under noise, missing data,
+confidence collapse and refusal-based reliability.
+
+📊 Women's Health Research Platform
+Privacy-preserving wearable analytics for longitudinal health studies.
+
+🧠 Interests
+Machine Learning Reliability • XAI • Digital Health • Systems Research
+
 ## About Me
 
 I'm a Computer Science Engineering student at Punjabi University, Patiala, interested in the space where software, data, and real-world systems meet.
