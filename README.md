@@ -1,7 +1,7 @@
 # <p align="center">Cherika Kaushal</p>
 
 <p align="center">
-Computer Science Engineering Student • Research Intern • Systems Builder
+CS Undergrad @Punjabi Univ Patiala • Research Intern @IITrpr • Systems Builder
 </p>
 
 <p align="center">
