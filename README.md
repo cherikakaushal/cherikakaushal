@@ -187,13 +187,6 @@ while curiosity:
     learn()
 ```
 
----
-
-## Research Writing
-
-- When Systems Break (Research Report, 2026)
-- Exploring Failure Modes in Machine Learning Systems (In Progress)
-
   
 
 <p align="center">
