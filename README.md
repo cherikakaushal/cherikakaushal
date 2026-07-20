@@ -87,32 +87,6 @@ Experimental framework for studying machine learning failure under noise, missin
 
 ---
 
-### Women's Health Research Platform
-
-Privacy-preserving platform for wearable-based health research.
-
-Features:
-
-* participant management
-* physiological monitoring
-* research dashboards
-* secure data collection
-* longitudinal study workflows
-
----
-
-### ARPIS
-
-Research paper exploration and discovery platform designed to simplify academic literature navigation and knowledge discovery.
-
----
-
-### Cargo-X
-
-Logistics and workflow platform focused on operational visibility and modern interface design.
-
----
-
 ## Tech Stack
 
 ### Languages
