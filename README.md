@@ -1,23 +1,21 @@
 # <p align="center">Cherika Kaushal</p>
 
 <p align="center">
-Building systems. Breaking assumptions. Studying what remains.
+Computer Science Undergraduate • Research Software • Full-Stack Development
 </p>
 
 <p align="center">
-ML Reliability • Digital Health • Full-Stack Engineering
+Building software for research, healthcare, and data-driven applications.
 </p>
 
 ---
 
 <p align="center">
-  <img src="banner.png" width="100%">
+<img src="banner.png" width="100%">
 </p>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,nodejs,mongodb,postgres,docker,git,linux" />
-
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,git,linux" />
 </p>
 
 <p align="center">
@@ -25,81 +23,83 @@ ML Reliability • Digital Health • Full-Stack Engineering
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherikakaushal&layout=compact&theme=transparent" />
 </p>
 
+---
 
-## About Me
+# About Me
 
-I'm a Computer Science Engineering student at Punjabi University, Patiala, interested in the space where software, data, and real-world systems meet.
+Hi! I'm Cherika, a Computer Science undergraduate at **Punjabi University, Patiala**.
 
-Most projects focus on ideal conditions.
+I enjoy building software that supports research, healthcare, and data-driven decision making. My recent work combines full-stack development with research software, ranging from digital health platforms to experimental machine learning projects.
 
-I'm more interested in what happens after that:
-
-* when data becomes noisy
-* when features disappear
-* when models become confidently wrong
-* when systems need to remain useful despite uncertainty
-
-My recent work spans machine learning reliability, wearable health analytics, research software, resilient systems, and full-stack development.
+During my Summer Research Internship at **IIT Ropar**, I worked on software for longitudinal health studies and stress management research. I'm currently interested in research software engineering, digital health technologies, and building reliable software systems.
 
 ---
 
-## Current Work
+# Current Work
 
-### Research Intern — IIT Ropar
+### Software Development Intern — BuildVR
 
-Working on privacy-aware digital health research infrastructure and wearable data analytics for longitudinal health studies.
+Developing software for immersive VR experiences, interactive 3D applications, and AI-assisted content generation.
 
-### Machine Learning Reliability Research
+### Exploring
 
-Building experimental frameworks to study:
-
-* robustness under noise
-* confidence collapse
-* calibration
-* failure detection
-* refusal-based reliability
-* explainability
-
-### Systems & Platforms
-
-Designing full-stack applications focused on:
-
-* health technology
-* research workflows
-* resilient data systems
-* offline-first architectures
+- Research Software Engineering
+- Machine Learning
+- Digital Health
+- Full-Stack Development
+- System Reliability
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### When Systems Break
+## Women's Health Research Platform
 
-Experimental framework for studying machine learning failure under noise, missing information, feature degradation, confidence collapse, calibration drift, and refusal-based reliability.
-
-**Research Areas**
-
-* Model Robustness
-* Reliability Engineering
-* Explainable AI
-* AI Safety Concepts
-* Failure Analysis
+A full-stack platform developed during my IIT Ropar internship for participant registration, symptom tracking, longitudinal health studies, and researcher dashboards.
 
 ---
 
-## Tech Stack
+## Stress Management Research Platform
+
+A research platform supporting session-based stress assessment using participant questionnaires and wearable physiological data.
+
+---
+
+## When Systems Break
+
+Python-based simulations exploring how machine learning systems behave under noisy and incomplete data through controlled experiments.
+
+---
+
+## Signal vs Noise
+
+Experimental simulations studying the impact of missing data and noise on computational outputs.
+
+---
+
+## ARPIS
+
+An AI-assisted research paper exploration tool designed to simplify paper discovery and organisation.
+
+---
+
+# Tech Stack
 
 ### Languages
 
 Python • C++ • JavaScript • TypeScript • SQL
 
-### AI / Data Science
+### Frameworks
 
-Scikit-Learn • Pandas • NumPy • Matplotlib • SHAP • Machine Learning
+React • Next.js • Node.js • Express.js • Tailwind CSS
 
-### Web Development
+### Databases
 
-React • Next.js • Node.js • Express.js • MongoDB • PostgreSQL
+MongoDB • PostgreSQL
+
+### Libraries
+
+Pandas • NumPy • Matplotlib • Scikit-learn
 
 ### Tools
 
@@ -107,68 +107,62 @@ Git • GitHub • Linux • Docker • Postman • VS Code
 
 ---
 
-## Research Interests
+# Experience
 
-* Machine Learning Reliability
-* Explainable AI (XAI)
-* Human-Centered AI
-* Digital Health Technologies
-* Distributed Systems
-* Resilient Infrastructure
-* Climate Informatics
-* Data Engineering
+### Summer Research Intern
 
----
+**Indian Institute of Technology Ropar**
 
-## Experience
+May 2026 – July 2026
 
-### Research Intern
-
-Indian Institute of Technology Ropar
-
-### Marketing & Product Operations
-
-BuildVR / Grubox
-
-Worked across product communication, technical content, growth initiatives, and platform development.
-
-### MERN Stack Training
-
-Indian Institute of Technology Kanpur
-
-### AI/ML for Geodata Analysis
-
-ISRO IIRS
+Worked on two research software systems supporting digital health studies through full-stack development, backend engineering, authentication, researcher dashboards, and wearable data integration.
 
 ---
 
-## Selected Achievements
+### Software Development Intern
 
-* GDG TechSprint Hackathon Winner
-* GirlScript Summer of Code Contributor
-* Research & Development Projects in AI, Health Technology, and System Reliability
-* Open Source Development & Technical Writing
+**BuildVR**
+
+Working on VR software, 3D applications, and AI-assisted video generation workflows.
 
 ---
 
-## Currently Exploring
+### Marketing Intern
+
+**Grubox**
+
+Supporting digital marketing, content planning, and community engagement.
+
+---
+
+# Interests
+
+- Research Software Engineering
+- Digital Health Technologies
+- Machine Learning
+- Data Analysis
+- Full-Stack Development
+- Human-Computer Interaction
+
+---
+
+# Currently Learning
 
 ```python
-while curiosity:
-    ask_questions()
-    build_systems()
-    break_assumptions()
-    learn()
+while learning:
+    build()
+    experiment()
+    improve()
 ```
 
-  
+---
 
 <p align="center">
-  <a href="https://cherikakaushal.github.io">Portfolio</a> •
-  <a href="https://linkedin.com/in/cherika-kaushal-4b9b8b30b">LinkedIn</a> •
-  <a href="https://github.com/cherikakaushal">GitHub</a>
+<a href="https://cherikakaushal.github.io">Portfolio</a> •
+<a href="https://linkedin.com/in/cherika-kaushal-4b9b8b30b">LinkedIn</a> •
+<a href="https://github.com/cherikakaushal">GitHub</a>
 </p>
 
 ---
 
-> Building systems that remain useful when the world becomes messy.
+> *Building software that solves real problems, one project at a time.*
