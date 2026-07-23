@@ -32,12 +32,6 @@
 ## GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cherikakaushal&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherikakaushal&layout=compact&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=cherikakaushal&theme=transparent&hide_border=true"/>
 </p>
 
@@ -57,29 +51,6 @@
 | 🏥 **Stress Management Platform** | Full-stack research platform integrating participant assessments and wearable health data. |
 | 📚 **ARPIS** | AI-assisted research paper exploration platform. |
 
----
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/cherikakaushal/cherikakaushal/output/github-contribution-grid-snake-dark.svg">
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=cherikakaushal&repo=when-systems-break&theme=transparent"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=cherikakaushal&repo=signal-vs-noise&theme=transparent"/>
-
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=cherikakaushal&theme=algolia&no-frame=true&column=4"/>
-
-</p>
 
 ---
 
