@@ -4,12 +4,17 @@
 
 ### Building reliable software through systems, research & AI.
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=cherikakaushal&label=Profile%20Views&color=7c3aed&style=flat" />
-  <img src="https://img.shields.io/github/followers/cherikakaushal?label=Followers&style=flat&color=7c3aed" />
-  <img src="https://img.shields.io/github/stars/cherikakaushal?affiliations=OWNER&label=Stars&style=flat&color=7c3aed" />
-</p>
+<p align="center">
 
+<img src="https://komarev.com/ghpvc/?username=cherikakaushal&label=Profile%20Views&color=7c3aed&style=flat"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Learning-7c3aed?style=flat"/>
+
+<img src="https://img.shields.io/badge/Research%20Software-Engineering-7c3aed?style=flat"/>
+
+<img src="https://img.shields.io/badge/Building-Database%20Systems-7c3aed?style=flat"/>
+
+</p>
 <img src="banner.png" width="100%">
 
 </div>
@@ -37,7 +42,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cherikakaushal&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cherikakaushal&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
@@ -53,16 +58,6 @@
 | 📚 **ARPIS** | AI-assisted research paper exploration platform. |
 
 ---
-
-## Current Focus
-
-```text
-🗄 Database Systems
-⚙ Research Software Engineering
-📈 Machine Learning Reliability
-🌐 Full-Stack Development
-🚀 Open Source
-```
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/cherikakaushal/cherikakaushal/output/github-contribution-grid-snake-dark.svg">
@@ -82,7 +77,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=cherikakaushal&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=cherikakaushal&theme=algolia&no-frame=true&column=4"/>
 
 </p>
 
