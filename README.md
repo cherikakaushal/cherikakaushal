@@ -1,168 +1,115 @@
-# <p align="center">Cherika Kaushal</p>
+<div align="center">
 
-<p align="center">
-Computer Science Undergraduate • Research Software • Full-Stack Development
+# Cherika Kaushal
+
+### Building reliable software through systems, research & AI.
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=cherikakaushal&label=Profile%20Views&color=7c3aed&style=flat" />
+  <img src="https://img.shields.io/github/followers/cherikakaushal?label=Followers&style=flat&color=7c3aed" />
+  <img src="https://img.shields.io/github/stars/cherikakaushal?affiliations=OWNER&label=Stars&style=flat&color=7c3aed" />
 </p>
 
-<p align="center">
-Building software for research, healthcare, and data-driven applications.
-</p>
-
----
-
-<p align="center">
 <img src="banner.png" width="100%">
+
+</div>
+
+---
+
+## Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,git,github,linux,vscode&perline=8"/>
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=cherikakaushal&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherikakaushal&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,git,linux" />
+<img src="https://streak-stats.demolab.com?user=cherikakaushal&theme=transparent&hide_border=true"/>
 </p>
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cherikakaushal&show_icons=true&theme=transparent" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherikakaushal&layout=compact&theme=transparent" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cherikakaushal&theme=github-compact&hide_border=true"/>
 </p>
 
 ---
 
-# About Me
+## Featured Projects
 
-Hi! I'm Cherika, a Computer Science undergraduate at **Punjabi University, Patiala**.
-
-I enjoy building software that supports research, healthcare, and data-driven decision making. My recent work combines full-stack development with research software, ranging from digital health platforms to experimental machine learning projects.
-
-During my Summer Research Internship at **IIT Ropar**, I worked on software for longitudinal health studies and stress management research. I'm currently interested in research software engineering, digital health technologies, and building reliable software systems.
-
----
-
-# Current Work
-
-### Software Development Intern — BuildVR
-
-Developing software for immersive VR experiences, interactive 3D applications, and AI-assisted content generation.
-
-### Exploring
-
-- Research Software Engineering
-- Machine Learning
-- Digital Health
-- Full-Stack Development
-- System Reliability
+| Project | Description |
+|---------|-------------|
+| 🧠 **When Systems Break** | Controlled experiments exploring how machine learning systems behave under noisy and incomplete data. |
+| 📊 **Signal vs Noise** | Experimental analysis of robustness, missing values and noisy datasets. |
+| ❤️ **Women's Health Research Platform** | Research software developed for longitudinal digital health studies during IIT Ropar internship. |
+| 🏥 **Stress Management Platform** | Full-stack research platform integrating participant assessments and wearable health data. |
+| 📚 **ARPIS** | AI-assisted research paper exploration platform. |
 
 ---
 
-# Featured Projects
+## Current Focus
 
-## Women's Health Research Platform
-
-A full-stack platform developed during my IIT Ropar internship for participant registration, symptom tracking, longitudinal health studies, and researcher dashboards.
-
----
-
-## Stress Management Research Platform
-
-A research platform supporting session-based stress assessment using participant questionnaires and wearable physiological data.
-
----
-
-## When Systems Break
-
-Python-based simulations exploring how machine learning systems behave under noisy and incomplete data through controlled experiments.
-
----
-
-## Signal vs Noise
-
-Experimental simulations studying the impact of missing data and noise on computational outputs.
-
----
-
-## ARPIS
-
-An AI-assisted research paper exploration tool designed to simplify paper discovery and organisation.
-
----
-
-# Tech Stack
-
-### Languages
-
-Python • C++ • JavaScript • TypeScript • SQL
-
-### Frameworks
-
-React • Next.js • Node.js • Express.js • Tailwind CSS
-
-### Databases
-
-MongoDB • PostgreSQL
-
-### Libraries
-
-Pandas • NumPy • Matplotlib • Scikit-learn
-
-### Tools
-
-Git • GitHub • Linux • Docker • Postman • VS Code
-
----
-
-# Experience
-
-### Summer Research Intern
-
-**Indian Institute of Technology Ropar**
-
-May 2026 – July 2026
-
-Worked on two research software systems supporting digital health studies through full-stack development, backend engineering, authentication, researcher dashboards, and wearable data integration.
-
----
-
-### Software Development Intern
-
-**BuildVR**
-
-Working on VR software, 3D applications, and AI-assisted video generation workflows.
-
----
-
-### Marketing Intern
-
-**Grubox**
-
-Supporting digital marketing, content planning, and community engagement.
-
----
-
-# Interests
-
-- Research Software Engineering
-- Digital Health Technologies
-- Machine Learning
-- Data Analysis
-- Full-Stack Development
-- Human-Computer Interaction
-
----
-
-# Currently Learning
-
-```python
-while learning:
-    build()
-    experiment()
-    improve()
+```text
+🗄 Database Systems
+⚙ Research Software Engineering
+📈 Machine Learning Reliability
+🌐 Full-Stack Development
+🚀 Open Source
 ```
 
----
+<p align="center">
+<img src="https://raw.githubusercontent.com/cherikakaushal/cherikakaushal/output/github-contribution-grid-snake-dark.svg">
+</p>
 
 <p align="center">
-<a href="https://cherikakaushal.github.io">Portfolio</a> •
-<a href="https://linkedin.com/in/cherika-kaushal-4b9b8b30b">LinkedIn</a> •
-<a href="https://github.com/cherikakaushal">GitHub</a>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=cherikakaushal&repo=when-systems-break&theme=transparent"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=cherikakaushal&repo=signal-vs-noise&theme=transparent"/>
+
 </p>
 
 ---
 
-> *Building software that solves real problems, one project at a time.*
+## GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=cherikakaushal&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+
+<a href="https://cherikakaushal.github.io">
+Portfolio
+</a>
+•
+<a href="https://www.linkedin.com/in/cherika-kaushal-4b9b8b30b">
+LinkedIn
+</a>
+•
+<a href="mailto:cherikakaushal@gmail.com">
+Email
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+> *Building software that remains reliable when reality becomes messy.*
+
+</div>
