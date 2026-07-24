@@ -31,15 +31,13 @@
 
 ## GitHub Analytics
 
-
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=cherikakaushal&theme=transparent&hide_border=true&v=2/>
+  <img src="https://streak-stats.demolab.com?user=cherikakaushal&theme=transparent&hide_border=true&v=2"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cherikakaushal&theme=github-dark&hide_border=true&v=2"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cherikakaushal&theme=github-dark&hide_border=true&v=2"/>
 </p>
-
 ---
 
 ## Featured Projects
