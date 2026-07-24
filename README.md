@@ -31,9 +31,6 @@
 
 ## GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cherikakaushal&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=cherikakaushal&theme=transparent&hide_border=true&v=1"/>
