@@ -26,41 +26,47 @@ I like building systems, testing assumptions, and understanding what happens out
 
 <div align="center">
 
-`Python`   `C++`   `C`   `JavaScript`   `TypeScript`   `SQL`
+`Python`   `C++`   `C`   `JavaScript`   `TypeScript`   `SQL`
 
-`React`   `Next.js`   `Node.js`   `PostgreSQL`   `MongoDB`
+`React`   `Next.js`   `Node.js`   `PostgreSQL`   `MongoDB`
 
-`Git`   `GitHub`   `Linux`
+`Git`   `GitHub`   `Linux`
 
 </div>
 
 ---
 
-### `activity`
+### `github activity`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=cherikakaushal&theme=dark&hide_border=true&background=0D1117&ring=F472B6&fire=F472B6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F472B6&sideLabels=FBCFE8&dates=8B949E" alt="GitHub Streak" />
+<img
+src="https://streak-stats.demolab.com?user=cherikakaushal&theme=dark&hide_border=true&background=0D1117&ring=F472B6&fire=F472B6&currStreakLabel=F472B6&sideLabels=FBCFE8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+alt="Cherika Kaushal GitHub streak"
+/>
 
 </div>
 
 <br>
 
-### `contribution graph`
-
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cherikakaushal&bg_color=0D1117&color=FBCFE8&line=F472B6&point=FFFFFF&area=true&area_color=F472B6&hide_border=true&custom_title=Cherika's%20Contribution%20Activity" alt="GitHub Activity Graph" />
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=cherikakaushal&bg_color=0D1117&color=FBCFE8&line=F472B6&point=FFFFFF&area=true&area_color=F472B6&hide_border=true"
+alt="Cherika Kaushal GitHub activity graph"
+/>
 
 </div>
 
 <br>
 
-### `year in commits`
-
 <div align="center">
 
-<img width="90%" src="https://ghchart.rshah.org/F472B6/cherikakaushal" alt="Cherika's GitHub Contributions" />
+<img
+src="https://ghchart.rshah.org/F472B6/cherikakaushal"
+alt="Cherika Kaushal yearly contribution graph"
+/>
 
 </div>
 
