@@ -26,11 +26,11 @@ I like building systems, testing assumptions, and understanding what happens out
 
 <div align="center">
 
-`Python`   `C++`   `C`   `JavaScript`   `TypeScript`   `SQL`
+`Python`   `C++`   `C`   `JavaScript`   `TypeScript`   `SQL`
 
-`React`   `Next.js`   `Node.js`   `PostgreSQL`   `MongoDB`
+`React`   `Next.js`   `Node.js`   `PostgreSQL`   `MongoDB`
 
-`Git`   `GitHub`   `Linux`
+`Git`   `GitHub`   `Linux`
 
 </div>
 
@@ -40,11 +40,27 @@ I like building systems, testing assumptions, and understanding what happens out
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cherikakaushal\&theme=dark\&hide_border=true\&background=0D1117\&ring=F472B6\&fire=F472B6\&currStreakNum=FFFFFF\&sideNums=FFFFFF\&currStreakLabel=F472B6\&sideLabels=FBCFE8\&dates=8B949E)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=cherikakaushal&theme=dark&hide_border=true&background=0D1117&ring=F472B6&fire=F472B6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F472B6&sideLabels=FBCFE8&dates=8B949E" alt="GitHub Streak" />
+
+</div>
 
 <br>
 
-![Cherika's GitHub Contributions](https://ghchart.rshah.org/f472b6/cherikakaushal)
+### `contribution graph`
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cherikakaushal&bg_color=0D1117&color=FBCFE8&line=F472B6&point=FFFFFF&area=true&area_color=F472B6&hide_border=true&custom_title=Cherika's%20Contribution%20Activity" alt="GitHub Activity Graph" />
+
+</div>
+
+<br>
+
+### `year in commits`
+
+<div align="center">
+
+<img width="90%" src="https://ghchart.rshah.org/F472B6/cherikakaushal" alt="Cherika's GitHub Contributions" />
 
 </div>
 
@@ -56,7 +72,7 @@ I like building systems, testing assumptions, and understanding what happens out
 
 `research` · `systems` · `software`
 
-<br>
+<br><br>
 
 **systems disagree. i investigate.**
 
