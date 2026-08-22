@@ -12,7 +12,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=cherikakaushal&label=PROFILE+VIEWS&color=f472b6&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=cherikakaushal&label=PROFILE+VIEWS&color=f472b6&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -32,7 +32,11 @@ I like building systems, testing assumptions, and understanding what happens out
 
 `Python`   `C++`   `C`   `JavaScript`   `TypeScript`   `SQL`
 
+<br>
+
 `React`   `Next.js`   `Node.js`   `PostgreSQL`   `MongoDB`
+
+<br>
 
 `Git`   `GitHub`   `Linux`
 
@@ -49,11 +53,18 @@ src="https://streak-stats.demolab.com?user=cherikakaushal&theme=dark&hide_border
 alt="Cherika Kaushal GitHub streak"
 />
 
-<br><br>
+</div>
+
+<br>
+
+### `contribution activity`
+
+<div align="center">
 
 <img
-src="https://ghchart.rshah.org/F472B6/cherikakaushal"
-alt="Cherika Kaushal GitHub contribution graph"
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=cherikakaushal&bg_color=0D1117&color=FBCFE8&line=F472B6&point=FFFFFF&area=true&area_color=F472B6&hide_border=true&custom_title=Cherika%27s%20Contribution%20Activity"
+alt="Cherika Kaushal GitHub contribution activity"
 />
 
 </div>
