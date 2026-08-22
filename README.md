@@ -4,7 +4,9 @@
 
 **Computer Science & Engineering · Research · Software**
 
-<img src="https://readme-typing-svg.demolab.com?font=SF+Mono&size=16&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=700&lines=building+software+%C2%B7+studying+systems+%C2%B7+asking+why;trying+to+make+sense+of+systems+%28they+disagree%29" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=650&lines=building+software+%C2%B7+studying+systems+%C2%B7+asking+why;trying+to+make+sense+of+systems+%28they+disagree%29" alt="Typing SVG" />
+
+<br>
 
 [Portfolio](https://cherikakaushal.github.io/) · [LinkedIn](https://www.linkedin.com/in/cherika-kaushal-4b9b8b30b) · [Email](mailto:cherikakaushal@gmail.com)
 
@@ -12,29 +14,37 @@
 
 ---
 
-### About
+### `about`
 
 CSE undergraduate interested in **machine learning, research software, data systems, and reliable computing**.
 
 I like building systems, testing assumptions, and understanding what happens outside the happy path.
 
-### Tools
-
-`Python` · `C++` · `C` · `JavaScript` · `TypeScript` · `SQL`
-`React` · `Next.js` · `Node.js` · `PostgreSQL` · `MongoDB`
-`Git` · `Linux`
-
 ---
 
-### Activity
+### `tools`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=cherikakaushal&theme=black-ice&background=0D1117&border=30363D&stroke=F472B6&ring=F472B6&fire=F472B6&currStreakNum=FFFFFF&sideNums=FBCFE8&currStreakLabel=FBCFE8&sideLabels=FBCFE8&dates=9CA3AF" alt="GitHub streak stats" />
+`Python`   `C++`   `C`   `JavaScript`   `TypeScript`   `SQL`
 
-<br><br>
+`React`   `Next.js`   `Node.js`   `PostgreSQL`   `MongoDB`
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cherikakaushal&bg_color=0d1117&color=fbcfe8&line=f472b6&point=f9a8d4&area=true&hide_border=true" alt="GitHub contribution graph" />
+`Git`   `GitHub`   `Linux`
+
+</div>
+
+---
+
+### `activity`
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cherikakaushal\&theme=dark\&hide_border=true\&background=0D1117\&ring=F472B6\&fire=F472B6\&currStreakNum=FFFFFF\&sideNums=FFFFFF\&currStreakLabel=F472B6\&sideLabels=FBCFE8\&dates=8B949E)](https://git.io/streak-stats)
+
+<br>
+
+![Cherika's GitHub Contributions](https://ghchart.rshah.org/f472b6/cherikakaushal)
 
 </div>
 
@@ -42,6 +52,14 @@ I like building systems, testing assumptions, and understanding what happens out
 
 <div align="center">
 
-<sub>research · systems · software</sub>
+<sub>
+
+`research` · `systems` · `software`
+
+<br>
+
+**systems disagree. i investigate.**
+
+</sub>
 
 </div>
