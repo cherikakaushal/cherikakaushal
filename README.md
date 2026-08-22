@@ -2,9 +2,9 @@
 
 # Cherika Kaushal
 
-### Computer Science & Engineering · Research · Software
+**Computer Science & Engineering · Research · Software**
 
-I build research software and full-stack systems around real-world data, with interests in machine learning reliability, data systems, digital health, and reliable computing.
+*trying to understand how systems behave — especially when they don't.*
 
 [Portfolio](https://cherikakaushal.github.io/) · [LinkedIn](https://www.linkedin.com/in/cherika-kaushal-4b9b8b30b) · [Email](mailto:cherikakaushal@gmail.com)
 
@@ -12,34 +12,60 @@ I build research software and full-stack systems around real-world data, with in
 
 ---
 
-### Focus
+### About
 
-Machine Learning Reliability · Research Software · Data Systems · Digital Health · Reliable Systems
+I build **research software and real-world systems**, with a particular interest in what happens when data, models, or infrastructure become imperfect.
 
-### Stack
+My work currently sits around:
 
-**Languages:** Python · C++ · C · JavaScript · TypeScript · SQL
-**Web & Backend:** React · Next.js · Node.js · Express · REST APIs
-**Data & ML:** MongoDB · PostgreSQL · Pandas · NumPy · Matplotlib · Scikit-learn · SHAP
-**Tools:** Git · GitHub · Linux · Postman
+`machine learning reliability` · `research software` · `data systems` · `digital health` · `reliable computing`
 
 ---
 
-### GitHub Activity
+### Selected Work
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/cherikakaushal" alt="Cherika Kaushal GitHub contribution graph" />
-</p>
+| Project                                                                                    | What I'm exploring                                          |
+| ------------------------------------------------------------------------------------------ | ----------------------------------------------------------- |
+| **[When Systems Break](https://github.com/cherikakaushal/when-systems-break)**             | How ML systems behave under missing, noisy and shifted data |
+| **Signal vs Noise**                                                                        | Data quality, robustness and experimental evaluation        |
+| **Women's Health Research**                                                                | Research infrastructure for real-world health data          |
+| **[ARPIS](https://github.com/cherikakaushal/arpis-AI-Research-Paper-Intelligence-System)** | Interfaces and tooling for research-paper intelligence      |
+| **BuildVR**                                                                                | Production software for immersive media workflows           |
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=cherikakaushal&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true" alt="GitHub activity statistics" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherikakaushal&layout=compact&hide_border=true" alt="Most used languages" />
-</p>
+---
+
+### Tools I Work With
+
+|                 |                                                   |
+| --------------- | ------------------------------------------------- |
+| **Languages**   | Python · C++ · C · JavaScript · TypeScript · SQL  |
+| **ML / Data**   | Pandas · NumPy · Scikit-learn · SHAP · Matplotlib |
+| **Systems**     | PostgreSQL · MongoDB · REST APIs · Linux          |
+| **Web**         | React · Next.js · Node.js · Express               |
+| **Engineering** | Git · GitHub · Postman                            |
+
+---
+
+### How I Like to Work
+
+```text
+question
+  ↓
+experiment
+  ↓
+measure
+  ↓
+break assumptions
+  ↓
+understand why
+  ↓
+build it better
+```
 
 ---
 
 <div align="center">
 
-research · systems · software
+<sub>research · systems · software</sub>
 
 </div>
