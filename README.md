@@ -4,80 +4,49 @@
 
 ### Computer Science & Engineering · Research · Software
 
-CSE undergraduate interested in machine learning, digital health, research software, and reliable systems.
+CSE undergraduate building software and exploring how systems behave with real-world data.
 
-<br>
-
-<a href="https://cherikakaushal.github.io">Portfolio</a>
-&nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/cherika-kaushal-4b9b8b30b">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="mailto:cherikakaushal@gmail.com">Email</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=cherikakaushal&label=PROFILE%20VIEWS&color=3fb950&style=flat-square"/>
+[Portfolio](https://cherikakaushal.github.io) ·
+[LinkedIn](https://www.linkedin.com/in/cherika-kaushal-4b9b8b30b) ·
+[Email](mailto:cherikakaushal@gmail.com)
 
 </div>
 
 ---
 
-## About
+### What I work on
 
-I'm a Computer Science & Engineering undergraduate at Punjabi University, Patiala.
+- Research software for digital health and longitudinal studies
+- Machine learning experiments around reliability, noise and data quality
+- Full-stack web applications and backend systems
 
-I work across software development and research, with interests in **machine learning, digital health, research software, data systems, and reliable systems**.
+**Interests:** Machine Learning · Research Software · Digital Health · Data Systems
 
 ---
 
-## Tech
+### Technologies
 
-<p align="center">
-
+<p>
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,nextjs,nodejs,express,mongodb,postgres,git,github,linux&perline=7"/>
-
 </p>
 
 ---
 
-## GitHub Activity
+### GitHub Activity
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=cherikakaushal&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9&include_all_commits=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=cherikakaushal&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherikakaushal&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" height="165"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherikakaushal&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=cherikakaushal&theme=dark&background=0D1117&hide_border=true&ring=3FB950&fire=3FB950&currStreakLabel=3FB950"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cherikakaushal&bg_color=0D1117&color=3FB950&line=3FB950&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
+<img src="https://streak-stats.demolab.com?user=cherikakaushal&theme=dark&background=0d1117&hide_border=true&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" height="165"/>
 </p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-**research · systems · software**
+research · systems · software
 
-<br><br>
-
-<a href="https://cherikakaushal.github.io">Portfolio</a>
-&nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/cherika-kaushal-4b9b8b30b">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="mailto:cherikakaushal@gmail.com">Email</a>
-
-</div>
+</p>
