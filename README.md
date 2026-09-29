@@ -57,22 +57,6 @@ alt="Cherika Kaushal GitHub streak"
 
 <br>
 
-### `contribution activity`
-
-<div align="center">
-
-<img
-width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=cherikakaushal&bg_color=0D1117&color=FBCFE8&line=F472B6&point=FFFFFF&area=true&area_color=F472B6&hide_border=true&custom_title=Cherika%27s%20Contribution%20Activity"
-alt="Cherika Kaushal GitHub contribution activity"
-/>
-
-</div>
-
----
-
-<div align="center">
-
 <sub>
 
 `research` · `systems` · `software`
